@@ -1,0 +1,71 @@
+
+router7>
+router7>
+router7>termain   inal length 0
+router7>show version
+Cisco IOS Software, 2800 Software (C2800NM-IPBASEK9-M), Version 15.1(4)M10, RELEASE SOFTWARE (fc2)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2015 by Cisco Systems, Inc.
+Compiled Tue 24-Mar-15 09:00 by prod_rel_team
+
+ROM: System Bootstrap, Version 12.4(13r)T11, RELEASE SOFTWARE (fc1)
+
+router7 uptime is 3 minutes
+System returned to ROM by power-on
+System restarted at 11:59:51 UTC Mon Jan 2 2006
+System image file is "flash:c2800nm-ipbasek9-mz.151-4.M10.bin"
+Last reload type: Normal Reload
+
+
+This product contains cryptographic features and is subject to United
+States and local country laws governing import, export, transfer and
+use. Delivery of Cisco cryptographic products does not imply
+third-party authority to import, export, distribute or use encryption.
+Importers, exporters, distributors and users are responsible for
+compliance with U.S. and local country laws. By using this product you
+agree to comply with applicable laws and regulations. If you are unable
+to comply with U.S. and local laws, return this product immediately.
+
+A summary of U.S. laws governing Cisco cryptographic products may be found at:
+http://www.cisco.com/wwl/export/crypto/tool/stqrg.html
+
+If you require further assistance please contact us by sending email to
+export@cisco.com.
+
+Cisco 2821 (revision 1.0) with 251904K/10240K bytes of memory.
+Processor board ID FTX1338AH3N
+2 Gigabit Ethernet interfaces
+DRAM configuration is 64 bits wide with parity enabled.
+239K bytes of non-volatile configuration memory.
+125440K bytes of ATA CompactFlash (Read/Write)
+
+
+License Info:
+
+License UDI:
+
+-------------------------------------------------
+Device#	  PID			SN
+-------------------------------------------------
+*0  	  CISCO2821             FTX1338AH3N     
+
+
+
+Configuration register is 0x2102
+
+router7>who   show ip interface brief
+Interface                  IP-Address      OK? Method Status                Protocol
+GigabitEthernet0/0         unassigned      YES NVRAM  administratively down down    
+GigabitEthernet0/1         192.168.50.27   YES NVRAM  administratively down down    
+router7>show inventory
+NAME: "2821 chassis", DESCR: "2821 chassis"
+PID: CISCO2821         , VID: V05 , SN: FTX1338AH3N
+
+
+router7>show flasth:   H h:" 
+-#- --length-- -----date/time------ path
+1     38406292 Jul 15 2016 20:35:16 +00:00 c2800nm-ipbasek9-mz.151-4.M10.bin
+
+89751552 bytes available (38408192 bytes used)
+
+router7>terman      
