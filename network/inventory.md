@@ -6,4 +6,4 @@
 
 ## Notes
 - R1 arrived as hostname `router7` with a saved config: Gi0/1 = 192.168.50.27, both interfaces shut down.
-- Clock reads 2006; backup battery likely dead. NTP needed (Milestone 4).# Lab Inventory
+- Clock reads 2006; backup battery likely dead. NTP needed (Milestone 4).
