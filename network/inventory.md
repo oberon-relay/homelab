@@ -2,7 +2,7 @@
 
 | Label | Model | Serial | IOS | Image | DRAM | Flash | Config reg | Modules | Access |
 |-------|-------|--------|-----|-------|------|-------|------------|---------|--------|
-| R1 | CISCO2821 (V05) | FTX1338AH3N | 15.1(4)M10 IP Base K9 | c2800nm-ipbasek9-mz.151-4.M10.bin | 256 MB | 128 MB CF | 0x2102 | none | console open; enable password unknown |
+| R1 | CISCO2821 (V05) | FTX1338AH3N | 15.1(4)M10 IP Base K9 | c2800nm-ipbasek9-mz.151-4.M10.bin | 256 MB | 128 MB CF | 0x2102 | none | wiped, 0x2102; no password set |
 | R2    |       |        |             |     |       |             |       |          |
 | R3    |       |        |             |     |       |             |       |          |
 | R4    |       |        |             |     |       |             |       |          |
